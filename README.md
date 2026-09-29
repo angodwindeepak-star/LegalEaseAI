@@ -1,0 +1,2 @@
+# LegalEaseAI
+AI Legal Ease
